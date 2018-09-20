@@ -1,0 +1,7 @@
+.hideme,.nav,.header,.inquiry,.footer-amp,hr,header{
+	display: none;
+
+}
+.title{
+	text-align: center!important;
+}

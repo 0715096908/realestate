@@ -1,0 +1,20 @@
+.dropdown ul.large {
+  min-width: 200px;
+  overflow: visible;
+}
+.dropdown li {
+  display: block;
+  margin: 0 18px;
+  overflow: visible;
+}
+.dropdown li + li {
+  border-top: 1px solid #eee;
+}
+.dropdown li a {
+  color: #555;
+  padding: 8px 18px;
+  margin: 0 -18px;
+}
+.dropdown li a:hover {
+  color: black;
+}

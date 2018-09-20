@@ -1,0 +1,50 @@
+li.active{
+	background:#2a3f54;
+	font-weight: 900;
+}
+li.active > a{
+	color: #fff;
+}
+.mv{
+	margin-left: 75px;
+	
+}
+.pds_header{
+	margin-top: 10px;
+	text-align: center;
+}
+.csc_no{
+	text-align: right;
+}
+.category_header{
+	color: #73879C;
+    background: #2A3F54;
+    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471;
+}
+.bords{
+	border: 1px solid;
+}
+input[type="text"].name_extension{
+	width: 20%;
+}
+.dob_label{
+	border: 1px solid;
+}
+input[type="text"].dob_input{
+	height: 29px;
+}
+.hayt{
+	border:1px solid;
+	height: 34px;
+}
+
+
+
+
+
+/*input[type="text"]{
+	width: auto;
+}*/
